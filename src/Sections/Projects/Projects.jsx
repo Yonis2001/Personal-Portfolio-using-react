@@ -15,7 +15,7 @@ function Projects() {
       h3="Bookinder"
       p="Book search app"/>
 
-<ProjectCard src={frshBurger} link={"https://github.com/Yonis2001/Bookinder.git"}
+<ProjectCard src={frshBurger} link={"https://www.pythonanywhere.com/user/yonisabdullahi/shares/54e50221c00a4d44b716a5aefbf3be20/"}
       h3="Rock,paper,Scissors"
       p="Play a fun game of rock, paper and Scissors "/>
 
