@@ -11,7 +11,7 @@ function Projects() {
         <section id="projects" className={styles.container}>
         <h1 className="sectionTitle">Projects</h1>
   <div className={styles.projectsContainer}>
-      <ProjectCard src={viberr} link={"https://github.com/Yonis2001/Bookinder.git"}
+      <ProjectCard src={viberr} link={"https://yonis2001.github.io/Bookinder/"}
       h3="Bookinder"
       p="Book search app"/>
 
