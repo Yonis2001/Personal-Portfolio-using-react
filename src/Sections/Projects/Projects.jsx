@@ -19,7 +19,7 @@ function Projects() {
       h3="Rock,paper,Scissors"
       p="Play a fun game of rock, paper and Scissors "/>
 
-<ProjectCard src={hipsster} link={"https://trinket.io/embed/python3/a5bd54189b"}
+<ProjectCard src={hipsster} link={"https://yonis2001.github.io/Ferris-wheel/"}
       h3="Ferris wheel"
       p="Ferris wheel using CSS Animations"/>
 
